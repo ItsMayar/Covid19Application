@@ -5,14 +5,20 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Web Techniques And Applications Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Developed a web application that monitors and visualizes COVID-19 case trends across Malaysia's states, enabling users to stay informed about the pandemic's impact on their locations and those of their loved ones. The application leverages interactive visual presentations, including charts and graphs, to provide detailed and accurate insights into the status of COVID-19 cases, recoveries, and fatalities.
+<br />
 <br />
 
+<h2>Technical Implementation:</h2>
 
-<h2>Languages and Utilities Used</h2>
+- Web Technologies: Utilized HTML5, CSS3, JavaScript, PHP, and MySQL to build a dynamic, user-friendly interface.
+- Data Visualization: Incorporated charts and graphs that dynamically display real-time COVID-19 data for each state.
+- Interactive Map: Integrated a clickable Malaysian map (malaysianMap.jpg) that redirects users to detailed state-specific data pages.
+- Database Connectivity: Implemented MySQL for backend data storage and retrieval, with robust error handling to ensure reliable database connections.
+- Cybersecurity: Employed best practices in web security to safeguard user data and ensure the integrity of information presented.
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+The application successfully raises awareness about the seriousness of the pandemic, helping users take necessary precautions by staying informed through reliable and up-to-date visual data.
+<br />
 
 <h2>Environments Used </h2>
 
